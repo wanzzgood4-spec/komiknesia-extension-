@@ -1,1 +1,1 @@
-# komiknesia-extension-
+# komiknesia-extension
